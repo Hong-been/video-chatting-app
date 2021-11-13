@@ -24,3 +24,10 @@
 - React Native Navigation : React Native App에 대해 Android와 IOS에서100% 네이티브 플랫폼 네비게이션을 제공한다.
 - React Native Gesture Handler : React Native에서 가능한 터치, 제스쳐 관리 API를 제공하는 라이브러리
 - React Native Vector Icons : 버튼 등에 사용하는 아이콘을 스타일링하고 프로젝트에 추가하기 위한 라이브러리.
+
+## 결과물이 동작하는 OS : iOS, Android
+
+## 데모버전이 시연될 환경
+
+- iOS : Iphone 8 디바이스(iOS 15.1)
+- Android : Android Studio Simulator(Android 11.0, API 30)
